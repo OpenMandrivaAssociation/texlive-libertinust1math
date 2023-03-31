@@ -1,6 +1,6 @@
 Name:		texlive-libertinust1math
 Version:	61751
-Release:	1
+Release:	2
 Summary:	A Type 1 font and LaTeX support for Libertinus Math
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/libertinust1math
