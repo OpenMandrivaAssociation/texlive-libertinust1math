@@ -1,5 +1,5 @@
 Name:		texlive-libertinust1math
-Version:	69440
+Version:	71428
 Release:	1
 Summary:	A Type 1 font and LaTeX support for Libertinus Math
 Group:		Publishing
