@@ -3,7 +3,7 @@ Version:	71428
 Release:	1
 Summary:	A Type 1 font and LaTeX support for Libertinus Math
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/libertinust1math
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/libertinust1math
 License:	ofl lppl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/libertinust1math.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/libertinust1math.doc.r%{version}.tar.xz
